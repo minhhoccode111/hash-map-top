@@ -106,24 +106,18 @@ function HashMap() {
 }
 
 const hash = HashMap();
-hash.set('a', 'tai vi sao');
-hash.set('b', 'cam xuc kia quay ve');
-hash.set('c', 'la tai ai');
-hash.set('d', 'da khien anh nhu vay');
-hash.set('e', 'da khien anh nhu vay');
-hash.set('f', 'da khien anh nhu vay');
-hash.set('g', 'da khien anh nhu vay');
-hash.set('h', 'da khien anh nhu vay');
-hash.set('i', 'da khien anh nhu vay');
-hash.set('k', 'da khien anh nhu vay');
-hash.set('l', 'da khien anh nhu vay');
-hash.set('m', 'da khien anh nhu vay');
-hash.set('n', 'da khien anh nhu vay');
-hash.set('o', 'da khien anh nhu vay');
-hash.set('p', 'da khien anh nhu vay');
-hash.set('q', 'da khien anh nhu vay');
-hash.set('r', 'da khien anh nhu vay');
-hash.set('s', 'da khien anh nhu vay');
+hash.set('a', 'this is a');
+hash.set('b', 'this is b');
+hash.set('c', 'this is c');
+hash.set('d', 'this is d');
+hash.set('e', 'this is e');
+hash.set('f', 'this is f');
+hash.set('g', 'this is g');
+hash.set('h', 'this is h');
+hash.set('i', 'this is i');
+hash.set('l', 'this is l');
+hash.set('m', 'this is m');
+
 hash.length();
 hash.values();
 hash.entries();
